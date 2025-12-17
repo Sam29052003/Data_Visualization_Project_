@@ -112,3 +112,67 @@ This project reads student data from a CSV file and visualizes it using:
                                Create elegant, publication-ready visuals
 
                                Perform quick EDA using Seaborn
+
+
+
+
+## Task 3.3 ##
+
+# Student Performance Visualization
+
+                             A simple data visualization project using Python, Pandas, Matplotlib, and Seaborn to explore student performance through clear and meaningful charts.
+
+# Overview
+
+
+                             This project visualizes student scores and attendance to highlight:
+
+  
+                             Score trends across subjects
+
+
+                             Relationships between subjects
+
+                        
+                             Attendance comparison
+
+ 
+                             Outliers in performance
+
+# Visualizations Included
+
+                            Line chart for average subject scores
+
+                            Scatter plot showing Math vs Science relationship
+
+                            Bar chart for student attendance
+
+                            Box plot to detect outliers in scores
+
+# Tech Stack
+
+                           Python
+
+                           Pandas
+
+                           Matplotlib
+
+                           Seaborn
+
+# ▶️ How to Run
+
+
+                          pip install pandas matplotlib seaborn
+
+                          python visualization.py
+
+
+# Files
+
+                          students.csv – Dataset
+
+                          visualization.py – Visualization script
+
+# Outcome
+
+                         Transforms raw student data into clear, storytelling-driven visuals.
