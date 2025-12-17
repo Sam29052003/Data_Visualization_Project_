@@ -2,40 +2,40 @@
 
 ## Task 3.1 ##
 
-CSV-Based Data Visualization
+## CSV-Based Data Visualization
 
-Turn raw CSV data into meaningful insights using Python, Pandas, and Matplotlib.
+                          Turn raw CSV data into meaningful insights using Python, Pandas, and Matplotlib.
 
 
 ## Project Overview
 
 This project reads student data from a CSV file and visualizes it using:
 
-                    1. Line Plot (Marks trend)
+                          1. Line Plot (Marks trend)
 
-                    2. Bar Plot (Marks comparison)
+                          2. Bar Plot (Marks comparison)
 
-                    3. Scatter Plot (Study hours vs marks)
+                          3. Scatter Plot (Study hours vs marks)
 
 
 ## Tools Used
 
-                    Python
+                          Python
 
-                    Pandas
+                          Pandas
                       
-                    Matplotlib
+                          Matplotlib
 
-                    VS Code
+                          VS Code
 
  
 ## Project Structure
 
-CSV_Visualization
+## CSV_Visualization
  
-               students_marks.csv
+                           students_marks.csv
                
-               csv_visualization.py
+                           csv_visualization.py
 
 ## ▶ How to Run
 
@@ -46,8 +46,8 @@ CSV_Visualization
 ## Outcome
 
 
-                  Read CSV files using Pandas
+                           Read CSV files using Pandas
 
-                  Create clean, labeled visualizations
+                           Create clean, labeled visualizations
 
-                  Convert data into visual stories
+                           Convert data into visual stories
