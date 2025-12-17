@@ -37,7 +37,7 @@ This project reads student data from a CSV file and visualizes it using:
                
                            csv_visualization.py
 
-## ▶ How to Run
+##  How to Run
 
                             pip install pandas matplotlib
                             
@@ -159,7 +159,7 @@ This project reads student data from a CSV file and visualizes it using:
 
                            Seaborn
 
-# ▶️ How to Run
+#  How to Run
 
 
                           pip install pandas matplotlib seaborn
@@ -176,3 +176,57 @@ This project reads student data from a CSV file and visualizes it using:
 # Outcome
 
                          Transforms raw student data into clear, storytelling-driven visuals.
+
+
+
+
+## SUBMISSION ##
+
+## Data Visualization Project – Retail Sales Analysis
+
+                          
+                        A Python-based data visualization project showcasing trends, comparisons, relationships, and outliers using an Indian retail sales dataset.
+
+# Project Overview
+
+                        This project analyzes monthly retail sales across different product categories to transform raw data into meaningful visual stories.
+
+# Visualizations Included
+
+                       1. Line Chart – Monthly sales trends by category
+
+                       2. Bar Chart – Average sales comparison
+
+                       3. Scatter Plot – Sales distribution across months
+
+                       4. Box Plot – Outlier detection in sales data
+
+# Tools & Libraries
+
+                       Python
+
+                       Pandas
+
+                       Matplotlib
+
+                       Seaborn
+
+# How to Run (VS Code)
+
+
+                      pip install pandas matplotlib seaborn
+                      
+                      python sales_visualization.py
+
+
+# Project Structure
+
+# Data_Visualization_Project/
+ 
+                     sales_data.csv
+                     
+                    sales_visualization.py
+
+#  Outcome
+
+                    This project demonstrates how effective visualizations can reveal business insights, trends, and anomalies from retail sales data.
