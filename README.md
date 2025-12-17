@@ -179,9 +179,7 @@ This project reads student data from a CSV file and visualizes it using:
 
 
 
-
 ## SUBMISSION ##
-
 ## Data Visualization Project – Retail Sales Analysis
 
                           
